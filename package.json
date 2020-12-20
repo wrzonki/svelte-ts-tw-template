@@ -4,9 +4,7 @@
     "start": "snowpack dev",
     "build": "snowpack build",
     "ts-check": "svelte-check",
-    "lint": "prettier --write ./**/*.svelte",
-    "postinstall": "husky install",
-    "test": "npm run ts-check & npm run lint"
+    "lint": "prettier --write ./**/*.svelte"
   },
   "dependencies": {
     "svelte": "^3.24.0"
@@ -19,8 +17,6 @@
     "@tsconfig/svelte": "^1.0.10",
     "@types/snowpack-env": "^2.3.0",
     "autoprefixer": "^10.0.1",
-    "husky": "^4.3.6",
-    "lint-staged": "^10.5.3",
     "postcss": "^8.2.1",
     "postcss-cli": "^8.3.0",
     "postcss-import": "^13.0.0",
