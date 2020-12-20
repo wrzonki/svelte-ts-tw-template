@@ -2,7 +2,8 @@
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
-    "ts-check": "svelte-check"
+    "ts-check": "svelte-check",
+    "lint": "prettier --write ./**/*.svelte"
   },
   "dependencies": {
     "svelte": "^3.24.0"
