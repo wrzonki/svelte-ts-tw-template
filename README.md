@@ -1,4 +1,4 @@
-# Original repo https://github.com/GarrettCannon/snowpack-svelte-ts-tw with few minor changes
+# [Original repo](https://github.com/GarrettCannon/snowpack-svelte-ts-tw) with few minor changes
 
 
 # Svelte with Typescript and TailwindCSS built with Snowpack
